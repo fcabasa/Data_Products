@@ -1,0 +1,33 @@
+---
+title       : Miles Per Gallon Prediction Shiny App
+subtitle    : Data Science Data Products Final Project
+author      : Frederick Cabasa
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Shiny App:  Miles Per Gallon Prediction
+
+
+Frederick Cabasa
+September 24, 2018
+
+Developing Data Products
+Project for Coursera
+
+
+
+## Introduction
+
+This app was created as a final project for the Coursera Data Science certification program and
+the Data Products class.  
+
+
+
+
+
